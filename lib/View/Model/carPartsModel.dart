@@ -16,6 +16,8 @@ class CarPartsModel {
         carparts1: 'Max Speed',
         carparts2: '265 KM/h'),
     CarPartsModel(
+
         img: 'assets/img/part2.png', carparts1: 'Power', carparts2: '580 HP'),
   ];
+
 }
