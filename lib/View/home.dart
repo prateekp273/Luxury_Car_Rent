@@ -104,6 +104,7 @@ class Home extends StatelessWidget {
                   letterSpacing: 1.2),
             ),
           ),
+
           SizedBox(
             height: 3.h,
           ),
