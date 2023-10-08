@@ -24,7 +24,7 @@ Welcome to **Rent-a-Car UI**! Experience the elegance of renting your dream car 
 1. **Clone the Repository**:
    ```bash
    
-   git clone https://github.com/prateekp273/Rent_Dream_Car_UI.git
+   git clone https://github.com/prateekp273/prateekp273/Luxury_Car_Rent.git
    1. Navigate to the project directory and install dependencies:
    ```bash
      cd SipSlick
