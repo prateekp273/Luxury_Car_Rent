@@ -21,11 +21,14 @@ Welcome to **Rent-a-Car UI**! Experience the elegance of renting your dream car 
 - Flutter SDK
 
 ### **Installation Steps**
-1. **Clone the Repository**:
-   ```bash
-   
+
+
+1. Clone the Repository**:
+   ```bash 
    git clone https://github.com/prateekp273/prateekp273/Luxury_Car_Rent.git
-   1. Navigate to the project directory and install dependencies:
+   
+   
+1. Navigate to the project directory and install dependencies:
    ```bash
      cd SipSlick
      flutter pub get
@@ -39,7 +42,7 @@ Welcome to **Rent-a-Car UI**! Experience the elegance of renting your dream car 
 - Dart - Language optimized for building mobile, desktop, and web apps.
 
 .
-🤝 Contribute to SipSlick
+🤝 Contribute to Luxury_Car_Rent
 We cherish every contribution & support. If you'd like to be a part of the SipSlick journey:
 
 - Fork the repository.
@@ -54,7 +57,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🙌 Acknowledgments
 - Flutter Documentation
 - Dart Packages
-- Cheers to all the ☕ coffee lovers who inspired this project!
+- Cheers to all the car lovers who inspired this project!
 
 📞 Get in Touch
 For queries, suggestions, or feedback, drop us a line:
